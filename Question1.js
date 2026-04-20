@@ -1,5 +1,5 @@
 
-// Question 1
+
 let score = 85;
 
 // Switch statement - gets the tens digit to find the grade range
